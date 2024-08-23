@@ -1,6 +1,6 @@
-# CryptoSocialAnalyzer
+# SocialTradeBot
 
-CryptoSocialAnalyzer is a comprehensive Python tool designed to analyze cryptocurrency projects through various social and technical metrics. It combines sentiment analysis, security checks, influencer analysis, and decentralized exchange interactions to provide a holistic view of a cryptocurrency project.
+SocialTradeBot is a comprehensive Python tool designed to analyze cryptocurrency projects through various social and technical metrics. It combines sentiment analysis, security checks, influencer analysis, and decentralized exchange interactions to provide a holistic view of a cryptocurrency project.
 
 ## Features
 
@@ -13,10 +13,10 @@ CryptoSocialAnalyzer is a comprehensive Python tool designed to analyze cryptocu
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/CryptoSocialAnalyzer.git
+git clone [https://github.com/yourusername/CryptoSocialAnalyzer.git](https://github.com/plotJ/SocialTradeBot/)
 
 2. Navigate to the project directory:
-cd CryptoSocialAnalyzer
+cd SocialTradeBot
 
 3. Install the required dependencies:
 pip install -r requirements.txt
