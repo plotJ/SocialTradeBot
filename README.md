@@ -13,7 +13,7 @@ SocialTradeBot is a comprehensive Python tool designed to analyze cryptocurrency
 ## Installation
 
 1. Clone this repository:
-git clone [[https://github.com/yourusername/CryptoSocialAnalyzer.git](https://github.com/plotJ/SocialTradeBot)](https://github.com/plotJ/SocialTradeBot/)
+git clone https://github.com/plotJ/SocialTradeBot
 
 2. Navigate to the project directory:
 cd SocialTradeBot
